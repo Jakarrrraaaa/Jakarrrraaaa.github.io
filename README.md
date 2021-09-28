@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="ru">
     <head>
-        <itle> Космос </itle>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+      <itle> Космос </itle>
         <header>
             <h1>7 Редчайших космических явлений:</h1>
         </header>
