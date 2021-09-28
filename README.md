@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
-    <head>
+     <head>
         <itle> Космос </itle>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
