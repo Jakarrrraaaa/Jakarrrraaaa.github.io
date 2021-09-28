@@ -2,7 +2,7 @@
 <html lang="ru">
     <head>
         <meta charset="utf-8">
-        <itle>Космос</itle>
+        <itle> Космос </itle>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
