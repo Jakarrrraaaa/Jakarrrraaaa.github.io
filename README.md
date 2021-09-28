@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
      <head>
-        <itle> Космос </itle>
+          <itle> Космос </itle>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
     </head>
